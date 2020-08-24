@@ -1,0 +1,99 @@
+header .container{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    text-align: center;
+    height: 25rem;
+}
+
+header .container .row{
+    padding-top: 30px;
+}
+
+header .container h2{
+    color:white;
+}
+
+.btn-light{
+    color:black;
+    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+    border-color: pink;
+}
+
+.btn{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid;
+    font-size: 25px;
+    line-height: 1.5;
+    transition:color .15s;
+    margin-top: 30px;
+    padding: 10px 200px;
+}
+
+/* section 1 */
+
+main .section-1 .big-letter{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+main .section-1 .container > p{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+.line-it-button{
+    padding: 10px 700px;
+}
+
+/* sectioin 3 */
+
+main .section-3{
+    background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
+}
+
+main .section-3 .container > p{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+main .section-4 .container > p{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+main .section-4 .photo{
+    text-align: center;
+}
+
+main .section-5{
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+}
+main .section-5 .container > p{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+main .section-5 .big-letter{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+main .section-5 .btn{
+    text-align: center;
+    border: 1px solid;
+    font-size: 25px;
+    line-height: 1.5;
+    transition:color .15s;
+    margin: 30px 375px;
+    margin-bottom: 100px;
+    padding: 10px 200px;
+}
